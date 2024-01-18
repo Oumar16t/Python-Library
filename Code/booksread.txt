@@ -1,4 +1,0 @@
-Oumar,1,2,3,4
-Profs,1,2,3,4
-Python,1,2
-test,5,3,1
